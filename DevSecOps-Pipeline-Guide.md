@@ -1,9 +1,3 @@
-Excellent. Now we move into **DevSecOps engineering** — where security becomes part of the CI/CD pipeline, not an afterthought.
-
-Below is a **GitHub-ready README.md** designed for long-term reference and professional documentation.
-
----
-
 # 🔐 DevSecOps Pipeline Guide
 
 ### SAST • DAST • Dependency Scanning • Container Security • Secure CI/CD
